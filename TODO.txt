@@ -1,0 +1,21 @@
+TODOS
+
+Page Building:
+  add a settings window for page building that will allow the user to manipulate how the pages are aranged onto the printable page
+
+MainUI:
+  add save buttons for MainGUI and PageEditGUI
+  add a remove page button to delete a page
+  add a search by last name or key to get a certian page, but dont change anything if not found
+
+Database:
+  add the ability to select a .txt file that contains the info in quotes, mainly for bulk data like an entire congress or for 10K people
+
+Backgound:
+DONE  add a list of booleans that signal if the object should be drawn or updated
+
+
+changed files
+  Background.java
+  Database.java
+  MainGUI.java
